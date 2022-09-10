@@ -1,0 +1,22 @@
+body{
+    background-color:azure;
+}
+
+div{
+    border: solid 1px thistle;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 10%;
+    background-color:aquamarine;
+  
+}
+form{
+    padding-left: 120px;
+    padding-bottom: 20px;
+}
+h1{
+    padding-left: 40px;
+}
+input{
+    background-color: aliceblue;
+}
